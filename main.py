@@ -1,5 +1,3 @@
-"""Quick countdown timer. Usage: python countdown.py 10"""
-
 import sys
 import time
 
