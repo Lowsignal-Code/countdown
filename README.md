@@ -41,8 +41,8 @@ The line above updates in place every second until it reaches `00:00`, at which 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/<Lowsignal-Code>/<countdown>.git
+cd <countdown>
 ```
 
 No further installation steps are needed since the script has no external dependencies.
