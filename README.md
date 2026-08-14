@@ -52,19 +52,19 @@ No further installation steps are needed since the script has no external depend
 Run the script from the terminal, passing the number of seconds to count down from:
 
 ```bash
-python countdown.py <seconds>
+python Main.py <seconds>
 ```
 
 For example, to count down from 5 minutes:
 
 ```bash
-python countdown.py 300
+python Main.py 300
 ```
 
 If no argument is provided, the timer defaults to 60 seconds:
 
 ```bash
-python countdown.py
+python Main.py
 ```
 
 To stop the timer before it finishes, press `Ctrl+C`.
