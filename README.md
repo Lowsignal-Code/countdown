@@ -41,7 +41,7 @@ The line above updates in place every second until it reaches `00:00`, at which 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<HoneySpider>/<countdown>.git
+git clone https://github.com/<HoneySpider-Code>/<countdown>.git
 cd <countdown>
 ```
 
